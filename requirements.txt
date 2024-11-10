@@ -1,0 +1,7 @@
+streamlit
+transformers
+langchain_community
+chromadb
+openai
+PyPDF2
+tiktoken
